@@ -42,18 +42,6 @@ header ul {
     display: flex;
 }
 
-
-
-.toggle{
-    width: 56px;
-    height: 56px;
-    float: right;
-    text-align: center;
-    color: #fff;
-    border-radius: 56px;
-    cursor: pointer;
-}
-
 header ul li {
     list-style: none; 
 }
